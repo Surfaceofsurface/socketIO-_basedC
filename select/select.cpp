@@ -1,4 +1,5 @@
 #include <cstdlib>
+#include <signal.h>
 #include <iostream>
 #include <sys/socket.h>
 #include <sys/select.h>
